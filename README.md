@@ -1,5 +1,4 @@
- Hlleo! Welcome to my Github profile. My neme is Yuri Souza my nickname is "Café"!
-
+Hello! Welcome to my Github profile. My name is Yuri Souza my nickname is "Café"!
 <div align="center">
   <a href="https://github.com/Yuri-Ccaf4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuri-Ccaf4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
