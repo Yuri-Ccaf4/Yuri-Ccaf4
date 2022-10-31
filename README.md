@@ -1,8 +1,8 @@
 Hello! Welcome to my Github profile. My name is Yuri Souza my nickname is "Café"!
 <div>
-  <a href='https://github.com/felipe1almeida'>
-   <img height='180em'src='https://github-readme-stats.vercel.app/api?username=felipe1almeida&show_icons=true&count_private=true&show_icons=true&theme=tokyonight'/> 
-   <img height='180em'src='https://github-readme-stats.vercel.app/api/top-langs/?username=felipe1almeida&langs_count=8&layout=compact'/>  
+  <a href='https://github.com/Yuri-Ccaf4'>
+   <img height='180em'src='https://github-readme-stats.vercel.app/api?username=Yuri-Ccaf4&show_icons=true&count_private=true&show_icons=true&theme=tokyonight'/> 
+   <img height='180em'src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Ccaf4&langs_count=7&theme=tokyonight'/>  
 </div>
 
   
