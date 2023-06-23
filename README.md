@@ -1,8 +1,5 @@
 Olá, Seu um estudante de Front-end.
-<div>
-  <a href='https://github.com/Yuri-Ccaf4'>
-    
-</div>
+
 
   
 <div style="display: inline_block"><br>
@@ -14,5 +11,5 @@ Olá, Seu um estudante de Front-end.
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Yuri-React" width="40" height="40"/>
           
                                                                                                                                             
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>  
