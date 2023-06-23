@@ -1,4 +1,4 @@
-Olá, Seu um estudante de Front-end.
+Olá, Seu um estudante Front-end.
 
 
   
